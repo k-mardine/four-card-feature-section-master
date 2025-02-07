@@ -107,7 +107,8 @@ children {
 
 img{
     display: flex;
-    justify-self: end;        
+    justify-self: end;    
+    align-item:end;
 }
 
 /* computer */
